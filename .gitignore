@@ -1,0 +1,11 @@
+build
+CMakeFiles
+cmake_install.cmake
+CMakeCache.txt
+mir-compositor
+run.sh
+./compSrcs/spotlightGtk/spotlight
+./compSrcs/taskbarGtk/elevate.sh
+./compSrcs/taskbarGtk/taskbarGtk
+./compSrcs/taskbarGtk/test
+./compSrcs/wallpaperGtk/wallpaperGtk
