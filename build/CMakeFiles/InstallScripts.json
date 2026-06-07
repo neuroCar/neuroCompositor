@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/neuro/mir-compositor/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

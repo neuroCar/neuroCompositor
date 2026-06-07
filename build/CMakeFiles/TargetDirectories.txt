@@ -1,3 +1,0 @@
-/home/neuro/mir-compositor/build/CMakeFiles/mir-compositor.dir
-/home/neuro/mir-compositor/build/CMakeFiles/edit_cache.dir
-/home/neuro/mir-compositor/build/CMakeFiles/rebuild_cache.dir
