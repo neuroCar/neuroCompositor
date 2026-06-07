@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/neuro/mir-compositor/build",
+  "command": "/usr/lib64/ccache/clang++ -isystem /usr/include/miral -isystem /usr/include/mircore -g -std=gnu++23 -o CMakeFiles/mir-compositor.dir/main.cpp.o -c /home/neuro/mir-compositor/main.cpp",
+  "file": "/home/neuro/mir-compositor/main.cpp",
+  "output": "/home/neuro/mir-compositor/build/CMakeFiles/mir-compositor.dir/main.cpp.o"
+}
+]
